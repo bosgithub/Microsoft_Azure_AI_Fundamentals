@@ -7,12 +7,13 @@ Data scientists can use data gathered to train machine learning models that can 
 
 
 ### Machine learning in Microsoft Azure
+
 Microsoft Azure provides the Azure Machine Learning service - a cloud-based platform for creating, managing, and publishing machine learning models. 
 
 Azure Machine Learning provides the following features and capabilities:
 
 MACHINE LEARNING IN MICROSOFT AZURE
-Feature	Capability
+
 Automated machine learning: This feature enables non-experts to quickly create an effective machine learning model from data.
 
 Azure Machine Learning designer:	A graphical interface enabling no-code development of machine learning solutions.
@@ -20,3 +21,12 @@ Azure Machine Learning designer:	A graphical interface enabling no-code developm
 Data and compute management:	Cloud-based data storage and compute resources that professional data scientists can use to run data experiment code at scale.
 
 Pipelines: Data scientists, software engineers, and IT operations professionals can define pipelines to orchestrate model training, deployment, and management tasks.
+
+
+### Anomaly detection
+
+a machine learning based technique that analyzes data over time and identifies unusual changes.
+
+### Anomaly detection in Microsoft Azure
+
+In Microsoft Azure, the Anomaly Detector service provides an application programming interface (API) that developers can use to create anomaly detection solutions.
