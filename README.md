@@ -33,4 +33,6 @@ a machine learning based technique that analyzes data over time and identifies u
 
 In Microsoft Azure, the Anomaly Detector service provides an application programming interface (API) that developers can use to create anomaly detection solutions.
 
+### Computer vision
+
 
