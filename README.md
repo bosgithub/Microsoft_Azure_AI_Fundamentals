@@ -34,8 +34,9 @@ a machine learning based technique that analyzes data over time and identifies u
 In Microsoft Azure, the Anomaly Detector service provides an application programming interface (API) that developers can use to create anomaly detection solutions.
 
 ### Computer vision
-Computer vision is machine learning models which process visual inputs such as picture and videos. This is used for image classification, object detection,
-semantic segmentation, image analysis/description, facial detection analysis, OCR and more. 
+Computer vision is machine learning models which process visual inputs such as picture and videos. This is used for image classification, object 
+
+detection, semantic segmentation, image analysis/description, facial detection analysis, OCR and more. 
 
 Microsoft Azure offers services such as:
 
@@ -48,4 +49,30 @@ Face: build face detection and facial recognition solutions
 Form recognizer: extract information from scanned forms and invoices
 
 
+### Natural Language Processing
 
+Natural language processing (NLP) is the area of AI that deals with creating software that understands written and spoken language.
+
+NLP enables you to create software that can:
+
+Analyze and interpret text in documents, email messages, and other sources.
+
+Interpret spoken language, and synthesize speech responses.
+
+Automatically translate spoken or written phrases between languages.
+
+Interpret commands and determine appropriate actions.
+
+#### Natural language processing in Microsoft Azure
+
+In Microsoft Azure, we have:
+
+1. Text Analytics: Use this service to analyze text documents and extract key phrases, detect entities(places, dates, and people), and evaluate
+
+sentiment(positive, negative)
+
+2. Translator text: Use this service to translate text between more than 60 languages
+
+3. Speech: Used to recognize and synthesize speech, and to translate spoken languages
+
+4. Language Understanding Intelligent Service(LUIS): Train language model that can understand spoken or text-based commands
