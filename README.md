@@ -76,3 +76,14 @@ sentiment(positive, negative)
 3. Speech: Used to recognize and synthesize speech, and to translate spoken languages
 
 4. Language Understanding Intelligent Service(LUIS): Train language model that can understand spoken or text-based commands
+
+#### Conversational AI
+
+Conversational AI is used to describe solutions where AI agent participate in conversation with humans
+
+Bots can be the basis of AI solutions for:
+
+Customer support for products or services.
+Reservation systems for restaurants, airlines, cinemas, and other appointment based businesses.
+Health care consultations and self-diagnosis.
+Home automation and personal digital assistants.
