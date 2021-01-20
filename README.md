@@ -77,13 +77,22 @@ sentiment(positive, negative)
 
 4. Language Understanding Intelligent Service(LUIS): Train language model that can understand spoken or text-based commands
 
-#### Conversational AI
+### Conversational AI
 
 Conversational AI is used to describe solutions where AI agent participate in conversation with humans
 
 Bots can be the basis of AI solutions for:
 
-Customer support for products or services.
-Reservation systems for restaurants, airlines, cinemas, and other appointment based businesses.
-Health care consultations and self-diagnosis.
-Home automation and personal digital assistants.
+Customer support for products or services
+
+Reservation systems for restaurants, airlines, cinemas, and other appointment based businesses
+
+Health care consultations and self-diagnosis
+
+Home automation and personal digital assistants
+
+#### Conversational AI in Microsoft Azure
+
+QnA: this cognitive service enables you to quickly build a *knowledege base* of questions and answers that can form the basis of a dialog between a hunman and an AI agent
+
+Azure Bot Service: This service provides a platform for creating, publishing, and managing bots. Developers can use the Bot Framework to create a bot and manage it with Azure Bot Service - integrating back-end services like QnA Maker and LUIS, and connecting to channels for web chat, email, Microsoft Teams, and others
