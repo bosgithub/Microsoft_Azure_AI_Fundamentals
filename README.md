@@ -96,3 +96,10 @@ Home automation and personal digital assistants
 QnA: this cognitive service enables you to quickly build a *knowledege base* of questions and answers that can form the basis of a dialog between a hunman and an AI agent
 
 Azure Bot Service: This service provides a platform for creating, publishing, and managing bots. Developers can use the Bot Framework to create a bot and manage it with Azure Bot Service - integrating back-end services like QnA Maker and LUIS, and connecting to channels for web chat, email, Microsoft Teams, and others
+
+#### Responsible AI
+#### 6 principles of building responsible AI from microsoft
+1. Fairness
+AI systems should treat all people fairly. For example, suppose you create a machine learning model to support a loan approval application for a bank. The model should make predictions of whether or not the loan should be approved without incorporating any bias based on gender, ethnicity, or other factors that might result in an unfair advantage or disadvantage to specific groups of applicants.
+
+Azure Machine Learning includes the capability to interpret models and quantify the extent to which each feature of the data influences the model's prediction. This capability helps data scientists and developers identify and mitigate bias in the model.
