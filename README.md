@@ -124,4 +124,4 @@ People should be accountable for AI systems. Designers and developers of AI-base
 Azure is a cloud computing platform with an ever-expanding set of services to help you build solutions to meet your business goals. 
 
 ## What is cloud computing? 
-It's the delivery of computing services over the internet, which is otherwise known as the cloud. These services include servers, storage, databases, networking, software, analytics, and intelligence.  
+It's the delivery of computing services over the internet, which is otherwise known as the cloud. These services include servers, storage, databases, networking, software, analytics, and intelligence, all of which can be scaled.
