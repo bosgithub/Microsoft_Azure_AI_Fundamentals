@@ -125,3 +125,7 @@ Azure is a cloud computing platform with an ever-expanding set of services to he
 
 ## What is cloud computing? 
 It's the delivery of computing services over the internet, which is otherwise known as the cloud. These services include servers, storage, databases, networking, software, analytics, and intelligence, all of which can be scaled.
+
+## Azure services
+
+Compute, Networking, Storage, Mobile, Databases, Web, Internet of Things (IoT), Big data, AI, DevOps
