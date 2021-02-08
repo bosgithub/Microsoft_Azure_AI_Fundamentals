@@ -129,3 +129,5 @@ It's the delivery of computing services over the internet, which is otherwise kn
 ## Azure services
 
 Compute, Networking, Storage, Mobile, Databases, Web, Internet of Things (IoT), Big data, AI, DevOps
+
+## Azure core services
