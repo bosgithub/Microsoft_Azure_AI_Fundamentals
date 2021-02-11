@@ -1,9 +1,8 @@
 # Microsoft_Azure_AI_Fundamentals
 
 ### How does machine learning work?
+
 Data scientists can use data gathered to train machine learning models that can make predictions and inferences based on the relationships they find in the data.
-
-
 
 ### Machine learning in Microsoft Azure
 
@@ -33,6 +32,7 @@ a machine learning based technique that analyzes data over time and identifies u
 In Microsoft Azure, the Anomaly Detector service provides an application programming interface (API) that developers can use to create anomaly detection solutions.
 
 ### Computer vision
+
 Computer vision is machine learning models which process visual inputs such as picture and videos. This is used for image classification, object 
 
 detection, semantic segmentation, image analysis/description, facial detection analysis, OCR and more. 
