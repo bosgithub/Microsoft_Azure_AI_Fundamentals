@@ -98,7 +98,9 @@ Azure Bot Service: This service provides a platform for creating, publishing, an
 
 #### Responsible AI
 #### 6 principles of building responsible AI from microsoft
+
 1. Fairness
+
 AI systems should treat all people fairly.
 Azure Machine Learning includes the capability to interpret models and quantify the extent to which each feature of the data influences the model's prediction. This capability helps data scientists and developers identify and mitigate bias in the model.
 
