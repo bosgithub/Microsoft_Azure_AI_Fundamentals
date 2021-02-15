@@ -97,6 +97,7 @@ QnA: this cognitive service enables you to quickly build a *knowledege base* of 
 Azure Bot Service: This service provides a platform for creating, publishing, and managing bots. Developers can use the Bot Framework to create a bot and manage it with Azure Bot Service - integrating back-end services like QnA Maker and LUIS, and connecting to channels for web chat, email, Microsoft Teams, and others
 
 #### Responsible AI
+
 #### 6 principles of building responsible AI from microsoft
 
 1. Fairness
@@ -119,6 +120,7 @@ AI systems should empower everyone and engage people. AI should bring benefits t
 AI systems should be understandable. Users should be made fully aware of the purpose of the system, how it works, and what limitations may be expected.
 
 6. Accountability
+
 People should be accountable for AI systems. Designers and developers of AI-based solution should work within a framework of governance and organizational principles that ensure the solution meets ethical and legal standards that are clearly defined.
 
 
