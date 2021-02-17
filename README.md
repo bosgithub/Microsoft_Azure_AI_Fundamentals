@@ -141,6 +141,7 @@ Compute, Networking, Storage, Mobile, Databases, Web, Internet of Things (IoT), 
 Azure is a continually expanding set of cloud services that help your organization meet your current and future business challenges. Azure gives you the freedom to build, manage, and deploy applications on a massive global network using your favorite tools and frameworks.
 
 ### What is the Azure portal?
+
 The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription by using a graphical user interface. You can:
 
 1. Build, manage, and monitor everything from simple web apps to complex cloud deployments.
