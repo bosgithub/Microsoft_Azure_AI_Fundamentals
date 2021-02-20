@@ -103,20 +103,25 @@ Azure Bot Service: This service provides a platform for creating, publishing, an
 1. Fairness
 
 AI systems should treat all people fairly.
+
 Azure Machine Learning includes the capability to interpret models and quantify the extent to which each feature of the data influences the model's prediction. This capability helps data scientists and developers identify and mitigate bias in the model.
 
 2. Reliability and safety
 
 AI systems should perform reliably and safely. 
+
 AI-based software application development must be subjected to rigorous testing and deployment management processes to ensure that they work as expected before release.
 
 3. Privacy and security
+
 AI systems should be secure and respect privacy. The machine learning models on which AI systems are based rely on large volumes of data, which may contain personal details that must be kept private. Even after the models are trained and the system is in production, it uses new data to make predictions or take action that may be subject to privacy or security concerns.
 
 4. Inclusiveness
+
 AI systems should empower everyone and engage people. AI should bring benefits to all parts of society, regardless of physical ability, gender, sexual orientation, ethnicity, or other factors.
 
 5. Transparency
+
 AI systems should be understandable. Users should be made fully aware of the purpose of the system, how it works, and what limitations may be expected.
 
 6. Accountability
