@@ -25,8 +25,6 @@ Pipelines: Data scientists, software engineers, and IT operations professionals 
 
 a machine learning based technique that analyzes data over time and identifies unusual changes.
 
-
-
 ### Anomaly detection in Microsoft Azure
 
 In Microsoft Azure, the Anomaly Detector service provides an application programming interface (API) that developers can use to create anomaly detection solutions.
