@@ -113,7 +113,11 @@ AI-based software application development must be subjected to rigorous testing 
 
 3. Privacy and security
 
-AI systems should be secure and respect privacy. The machine learning models on which AI systems are based rely on large volumes of data, which may contain personal details that must be kept private. Even after the models are trained and the system is in production, it uses new data to make predictions or take action that may be subject to privacy or security concerns.
+AI systems should be secure and respect privacy. The machine learning models on which AI systems are based rely on large volumes of data, which may contain personal details that 
+
+must be kept private. Even after the models are trained and the system is in production, it uses new data to make predictions or take action that may be subject to privacy or 
+
+security concerns.
 
 4. Inclusiveness
 
