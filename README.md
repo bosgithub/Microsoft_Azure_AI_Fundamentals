@@ -92,7 +92,9 @@ Home automation and personal digital assistants
 
 QnA: this cognitive service enables you to quickly build a *knowledege base* of questions and answers that can form the basis of a dialog between a hunman and an AI agent
 
-Azure Bot Service: This service provides a platform for creating, publishing, and managing bots. Developers can use the Bot Framework to create a bot and manage it with Azure Bot Service - integrating back-end services like QnA Maker and LUIS, and connecting to channels for web chat, email, Microsoft Teams, and others
+Azure Bot Service: This service provides a platform for creating, publishing, and managing bots. Developers can use the Bot Framework to create a bot and manage it with Azure 
+
+Bot Service - integrating back-end services like QnA Maker and LUIS, and connecting to channels for web chat, email, Microsoft Teams, and others
 
 #### Responsible AI
 
