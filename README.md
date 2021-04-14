@@ -171,6 +171,7 @@ Azure Marketplace helps connect users with Microsoft partners, independent softw
 Azure Marketplace customers can find, try, purchase, and provision applications and services from hundreds of leading service providers. All solutions and services are certified to run on Azure
 
 The solution catalog spans several industry categories such as open-source container platforms, virtual machine images, databases, application build and deployment
+
 software, developer tools, threat detection, and blockchain. Using Azure Marketplace, you can provision end-to-end solutions quickly and reliably, hosted in your own Azure 
 
 environment. 
