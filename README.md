@@ -170,7 +170,6 @@ graphical user interface.
 ### What is Azure Marketplace?
 
 Azure Marketplace helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure. 
-
 Azure Marketplace customers can find, try, purchase, and provision applications and services from hundreds of leading service providers. All solutions and services are certified to run on Azure
 
 The solution catalog spans several industry categories such as open-source container platforms, virtual machine images, databases, application build and deployment
