@@ -179,5 +179,6 @@ software, developer tools, threat detection, and blockchain. Using Azure Marketp
 
 environment. 
 
+
 Azure Marketplace is designed for IT pros and cloud developers interested in commercial and IT software. 
 
