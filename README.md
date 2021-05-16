@@ -2,7 +2,7 @@
 
 ### How does machine learning work?
 
-Data scientists can use data gathered to train machine learning models that can make predictions and inferences based on the relationships they find in the data.
+Data scientists can use data gathered to train machine learning models that can make predictions and  inferences based on the relationships they find in the data.
 
 ### Machine learning in Microsoft Azure
 
