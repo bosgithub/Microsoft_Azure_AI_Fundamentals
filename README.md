@@ -20,7 +20,6 @@ Data and compute management:	Cloud-based data storage and compute resources that
 
 Pipelines: Data scientists, software engineers, and IT operations professionals can define pipelines to orchestrate model training, deployment, and management tasks.
 
-
 ### Anomaly detection
 
 a machine learning based technique that analyzes data over time and identifies unusual changes.
