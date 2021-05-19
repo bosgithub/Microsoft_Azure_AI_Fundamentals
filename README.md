@@ -30,6 +30,7 @@ In Microsoft Azure, the Anomaly Detector service provides an application program
 
 ### Computer vision
 
+
 Computer vision is machine learning models which process visual inputs such as picture and videos. This is used for image classification, object 
 
 detection, semantic segmentation, image analysis/description, facial detection analysis, OCR and more. 
