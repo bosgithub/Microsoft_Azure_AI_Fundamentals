@@ -45,7 +45,6 @@ Face: build face detection and facial recognition solutions
 
 Form recognizer: extract information from scanned forms and invoices
 
-
 ### Natural Language Processing
 
 Natural language processing (NLP) is the area of AI that deals with creating software that understands written and spoken language.
