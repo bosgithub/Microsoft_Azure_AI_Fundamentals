@@ -166,8 +166,6 @@ graphical user interface.
 
 3. Configure accessibility options for an optimal experience.
 
-
-
 ### What is Azure Marketplace?
 
 Azure Marketplace helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, which are optimized to run on Azure. 
