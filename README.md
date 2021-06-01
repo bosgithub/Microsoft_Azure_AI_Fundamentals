@@ -25,6 +25,8 @@ Pipelines: Data scientists, software engineers, and IT operations professionals 
 ### Anomaly detection
 
 
+
+
 a machine learning based technique that analyzes data over time and identifies unusual changes.
 
 ### Anomaly detection in Microsoft Azure
