@@ -5,7 +5,6 @@
 Data scientists can use data gathered to train machine learning models that can make predictions and  inferences based on the relationships they find in the data.
 
 
-
 ### Machine learning in Microsoft Azure
 
 Microsoft Azure provides the Azure Machine Learning service - a cloud-based platform for creating, managing, and publishing machine learning models. 
@@ -23,9 +22,6 @@ Data and compute management:	Cloud-based data storage and compute resources that
 Pipelines: Data scientists, software engineers, and IT operations professionals can define pipelines to orchestrate model training, deployment, and management tasks.
 
 ### Anomaly detection
-
-
-
 
 a machine learning based technique that analyzes data over time and identifies unusual changes.
 
