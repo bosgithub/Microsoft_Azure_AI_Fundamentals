@@ -5,8 +5,6 @@
 Data scientists can use data gathered to train machine learning models that can make predictions and  inferences based on the relationships they find in the data.
 
 ### Machine learning in Microsoft Azure
-
-
 Microsoft Azure provides the Azure Machine Learning service - a cloud-based platform for creating, managing, and publishing machine learning models. 
 
 Azure Machine Learning provides the following features and capabilities:
