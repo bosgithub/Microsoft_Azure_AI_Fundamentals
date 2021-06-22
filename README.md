@@ -10,6 +10,7 @@ Microsoft Azure provides the Azure Machine Learning service - a cloud-based plat
 Azure Machine Learning provides the following features and capabilities:
 
 MACHINE LEARNING IN MICROSOFT AZURE
+
 Automated machine learning: This feature enables non-experts to quickly create an effective machine learning model from data.
 
 Azure Machine Learning designer:	A graphical interface enabling no-code development of machine learning solutions.
